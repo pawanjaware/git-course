@@ -1,3 +1,4 @@
 Add or delete the file
 change the roles
 manage the database.
+closing the connection.
