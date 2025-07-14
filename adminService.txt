@@ -1,7 +1,7 @@
 Add or delete the file
 change the roles
 manage the database.
-closing the connection.
+closing the oracle connection.
 
 change1
 change2 in Oracle Database
